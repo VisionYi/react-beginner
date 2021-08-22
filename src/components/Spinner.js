@@ -1,5 +1,6 @@
 import React from 'react'
 
+// 這裡全部使用 Tailwind CSS 配置所有的元素樣式
 const Spinner = ({ message }) => {
   return (
     <div className="flex justify-center items-center h-full">
